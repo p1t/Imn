@@ -28,7 +28,9 @@
     }
 ```
 
-4. Build and run application in IDE or execute command ```mvn spring-boot:run``` using maven.
+4. Build and launch application in IDE or execute command ```mvn spring-boot:run``` using maven.
+
+5. Visit http://localhost:8080/swagger-ui.html
 
 ### springFox
 
@@ -69,4 +71,6 @@
     }
 ```
 
-4. Build and run application.
+4. Build and launch application.
+
+5. Visit http://localhost:8080/swagger-ui/index.html
